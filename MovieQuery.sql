@@ -86,10 +86,4 @@ ORDER BY tomatometer_rating
 
 
 
--- Find an even larger gap?
 
-
-
--- Find what Movies are Fresh or Certified-fresh that are genre Movies including Action &Adventure, Horror, Mystery & Suspense and Science Fiction 
-SELECT Movie_Title_corrected, Genres
-FROM ['Working file$']
